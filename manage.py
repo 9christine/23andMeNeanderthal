@@ -48,7 +48,7 @@ def create_connection(db_file):
 
 def welcome_message(conn):
     print('\n**********************************\n')
-    print('23andMe Neanderthal Variant Demo\n')
+    print('Neanderthal Variants\n')
     print('**********************************\n')
     print('Welcome! Thank you for your patience as we download genetic data')
     print('for 22 accession ids containing potential Neanderthal variants.\n')
@@ -130,7 +130,7 @@ def close_connection(conn):
 
 
 if __name__ == "__main__":
-    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "interview.settings")
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "demo.settings")
     try:
         from django.core.management import execute_from_command_line
     except ImportError:

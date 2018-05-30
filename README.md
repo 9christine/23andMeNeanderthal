@@ -1,5 +1,5 @@
 # 23andMe Neanderthal Variant Demo
-Command-line program retrieves genetic data from the 23andMe API and analyzes for Neanderthal variant matches in demo user.
+Command-line app retrieves genetic data from the 23andMe API and analyzes for Neanderthal variant matches in demo user.
 
 
 ## System requirements
@@ -18,7 +18,7 @@ https://api.23andme.com
 
 
 ## Performance
-Demo currently downloads a limited amount of data from the 23andMe API to reduce run-time. Adjust LIMIT (currently 5000) in manage.py to control number of records retrieved.
+App currently downloads a limited amount of data from the 23andMe API to reduce run-time. Adjust LIMIT (currently 5000) in manage.py to control number of records retrieved.
 
 
 ## Future development
