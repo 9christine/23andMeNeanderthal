@@ -3,14 +3,14 @@ Command-line program which retrieves genetic data from the 23andMe API and analy
 
 
 ## System requirements
-Python 3 (brew install python)
-Pip (python get-pip.py)
+- Python 3 (brew install python)
+- Pip (python get-pip.py)
 
 
 ## Create virtual environment and run program
-python3 -m venv venv
-source venv/bin/activate
-make
+- python3 -m venv venv
+- source venv/bin/activate
+- make
 
 
 ## Performance
@@ -34,5 +34,5 @@ Demo currently downloads a limited amount of data from the 23andMe API to reduce
 
 
 ## Author
-Christine E. Taylor
+Christine Taylor
 christine.e.taylor.sf@gmail.com
