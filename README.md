@@ -1,5 +1,6 @@
 # 23andMe Neanderthal Variant Demo
 Command-line app retrieves genetic data from the 23andMe API and analyzes for Neanderthal variant matches in demo user.
+[Raw genetic data API is no longer supported.](https://api.23andme.com/)
 
 
 ## System requirements
