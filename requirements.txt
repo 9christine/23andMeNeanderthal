@@ -1,2 +1,2 @@
-Django == 2.0.8
+Django == 2.0.12
 requests[security] == 2.9.1
