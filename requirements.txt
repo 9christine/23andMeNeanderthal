@@ -1,2 +1,2 @@
 Django == 2.0.11
-requests[security] == 2.20.0
+requests[security] == 2.22.0
